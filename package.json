@@ -1,0 +1,17 @@
+{
+  "name": "dota2api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.12.1",
+    "inquirer": "^5.2.0",
+    "minimist": "^1.2.0"
+  }
+}
