@@ -1,0 +1,3 @@
+[submodule "graphql-server"]
+    path = src/graphql-server
+    url = git@github.com:ktestpi/dota2api_es.git
