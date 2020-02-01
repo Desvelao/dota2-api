@@ -16,4 +16,4 @@ Dota 2 API with [GraphQL](http://graphql.org) + [Firebase](https://firebase.goog
 	Close the CLI with `Ctrl+C`
 
 
-- Script to **autoparse** data (wip)
+- Script to **autoparse** data (WIP)
